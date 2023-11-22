@@ -1,5 +1,5 @@
 # Parcial Docker-Swarm-Rest-Soap
-## Alumno: Montellano Marcos
+## Alumno: Recalde Agustín
 ```markdown
 Este proyecto contiene una aplicación que utiliza servicios SOAP y REST, implementados con Node.js y MySQL, y se ejecuta en contenedores Docker. La aplicación consulta y muestra datos de alumnos a través de servicios SOAP y REST.
 
